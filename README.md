@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @lucasambin
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+I'm a MSc Computer Engineering student with background on Artificial Intelligence and Robotics.
+I'm experienced in Computer Vision, Natural Language Processing, Machine Learning, Artificial Intelligence and Big Data.
+
+<!---
+lucasambin/lucasambin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
