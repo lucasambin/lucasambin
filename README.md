@@ -100,10 +100,10 @@ I'm experienced in Computer Vision, Natural Language Processing, Machine Learnin
 
 ## Recent Projects
  📐 **Neural transition‑based parser**: ([🔗Code](https://github.com/lucasambin/Arc_Eager_Dependency_Parsing))
-  - Online platform that allows to optimize a TSP problem
+  - Developed a Arc‑Eager parser for dependency grammars, with unlabelled dependencies
   - Developed with Python, PyTorch
 
- 💡 **Structure from Motion application**: ([🔗Code](https://github.com/lucasambin/3D_Data_Processing/tree/main))
+ 💡 **Structure from Motion application**: ([🔗Code](https://github.com/lucasambin/3D_Data_Processing))
   - Developed an application which is able to estimate the 3D structure of a small scene taken by smartphone from a sequence of images with some field‑of‑view overlaps
   - Developed with C++, Python, OpenCV, Eigen, Open3D
 
