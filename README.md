@@ -98,6 +98,23 @@ I'm experienced in Computer Vision, Natural Language Processing, Machine Learnin
   </a>
 </div>
 
+## Recent Projects
+ 📐 **Neural transition‑based parser**: ([🔗Code](https://github.com/lucasambin/Arc_Eager_Dependency_Parsing))
+  - Online platform that allows to optimize a TSP problem
+  - Developed with Python, PyTorch
+
+ 💡 **Structure from Motion application**: ([🔗Code](https://github.com/lucasambin/3D_Data_Processing/tree/main))
+  - Developed an application which is able to estimate the 3D structure of a small scene taken by smartphone from a sequence of images with some field‑of‑view overlaps
+  - Developed with C++, Python, OpenCV, Eigen, Open3D
+
+ 🎤 **Pick and Place application:** ([🔗Code](https://github.com/lucasambin/Intelligent_Robotics))
+  - Developed a system that is able of the detection of obstacles using Tiago (PAL Robotics) and performing a fetch and delivery behaviour for everyday objects, navigating inside the environment
+  - Using C++, OpenCV, ROS
+
+ 📰 **Human hands detection and segmentation**: ([🔗Link](https://github.com/lucasambin/Computer_Vision))
+  - Developed a system capable of detecting human hands in an input image and segmenting human hands in the image from the background (binary segmentation)
+  - Using C++, OpenCV
+
 ### :fire: My GitHub Stats :
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasambin&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasambin&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
