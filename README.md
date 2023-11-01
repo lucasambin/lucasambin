@@ -104,6 +104,7 @@ I'm experienced in Computer Vision, Natural Language Processing, Machine Learnin
 ### :book: Currently Learning :
 
 - :robot: Artificial Intelligence and Robotics
+- :telescope: Diffusion Model for Data Augmentation
 
 <!---
 - 👋 Hi, I’m @lucasambin
