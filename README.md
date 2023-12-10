@@ -100,7 +100,7 @@ I'm experienced in Computer Vision, Natural Language Processing, Machine Learnin
 
 ## Recent Projects
 💡 **Nvidia Stereo Matching Competition**: ([🔗Code](https://github.com/lucasambin/Nvidia_Stereo_Matching_Competition) | [📄Paper](https://github.com/lucasambin/Nvidia_Stereo_Matching_Competition/blob/main/Principe_Sambin_NvidiaCompetition.pdf))
-  - Designing and deploy two Stereo Matching (SM) approach that has an acceptable tradeoff between the speedest and the most accurate one
+  - Designing and deploy two Stereo Matching (SM) approaches that have an acceptable trade-off between the faster and the most accurate one
   - Developed with Python, PyTorch, C++
 
  📐 **Neural transition‑based parser**: ([🔗Code](https://github.com/lucasambin/Arc_Eager_Dependency_Parsing))
