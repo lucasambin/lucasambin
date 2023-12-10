@@ -1,4 +1,4 @@
-### :man_technologist: About Me :
+### About Me :
 
 I'm a MSc Computer Engineering student with background on Artificial Intelligence and Robotics.
 I'm experienced in Computer Vision, Natural Language Processing, Machine Learning, Artificial Intelligence and Big Data.
@@ -15,7 +15,7 @@ I'm experienced in Computer Vision, Natural Language Processing, Machine Learnin
   <img src="https://komarev.com/ghpvc/?username=lucasambin&style=flat-square&color=blue" alt=""/>
 </div>
 
-### :hammer_and_wrench: Languages and Tools :
+### Languages and Tools :
 
 <div id="badges">
   <a href="OpenCV">
@@ -99,6 +99,10 @@ I'm experienced in Computer Vision, Natural Language Processing, Machine Learnin
 </div>
 
 ## Recent Projects
+💡 **Nvidia Stereo Matching Competition**: ([🔗Code](https://github.com/lucasambin/Nvidia_Stereo_Matching_Competition) | [📄Paper](https://github.com/lucasambin/Nvidia_Stereo_Matching_Competition/blob/main/Principe_Sambin_NvidiaCompetition.pdf))
+  - Designing and deploy two Stereo Matching (SM) approach that has an acceptable tradeoff between the speedest and the most accurate one
+  - Developed with Python, PyTorch, C++
+
  📐 **Neural transition‑based parser**: ([🔗Code](https://github.com/lucasambin/Arc_Eager_Dependency_Parsing))
   - Developed a Arc‑Eager parser for dependency grammars, with unlabelled dependencies
   - Developed with Python, PyTorch
@@ -115,10 +119,10 @@ I'm experienced in Computer Vision, Natural Language Processing, Machine Learnin
   - Developed a system capable of detecting human hands in an input image and segmenting human hands in the image from the background (binary segmentation)
   - Using C++, OpenCV
 
-### :fire: My GitHub Stats :
+### My GitHub Stats :
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasambin&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasambin&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-### :book: Currently Learning :
+### Currently Learning :
 
 - :robot: Artificial Intelligence and Robotics
 - :telescope: Diffusion Model for Data Augmentation
