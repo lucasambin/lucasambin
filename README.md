@@ -1,6 +1,6 @@
 ### About Me :
 
-I'm a MSc Computer Engineering student with background on Artificial Intelligence and Robotics.
+I'm a Software Engineer at Microsoft with background on Artificial Intelligence and Robotics.
 I'm experienced in Computer Vision, Natural Language Processing, Machine Learning, Artificial Intelligence and Big Data.
 
 <div id="badges" align="center">
